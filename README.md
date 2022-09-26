@@ -5,14 +5,50 @@
 <h2 align="center">My experience</h2>
 <h3 align="center">Software:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,aftereffects,blender,unrealengine,figma" />
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html)">
+    <img src="https://skillicons.dev/icons?i=aftereffects" />
+  </a>
+   <a href="https://www.blender.org">
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
+   <a href="https://www.unrealengine.com/en-US">
+    <img src="https://skillicons.dev/icons?i=unrealengine" />
+  </a>
+   <a href="https://www.figma.com/ui-design-tool">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 <h3 align="center">Graphics:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,c,cpp" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=jquery" />
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://www.w3schools.com/c/c_intro.php">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
 <h2 align="center">Contacts</h2>
