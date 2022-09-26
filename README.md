@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Viktor Kysil</h1>
+<h1 align="center">Hi, I'm Viktor Kysil 👋</h1>
 <h3 align="center">A developer and artist from Kyiv, Ukraine</h3>
 
 
