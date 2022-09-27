@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
-<h3 align="center">Graphics:</h3>
+<h3 align="center">Development:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=js" />
