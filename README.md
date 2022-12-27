@@ -41,14 +41,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=jquery" />
   </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
   <a href="https://www.w3schools.com/c/c_intro.php">
     <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
 <h2 align="center">Contacts</h2>
