@@ -10,9 +10,6 @@
 #### Development:
 - JavaScript, HTML5, CSS3, jQuery, C
 
-### Skills 🤹‍♂️
-- [Add your key skills and competencies here using icons or badges]
-
 ### Projects 🚀
 - Matrix Calculator, Monterey Online
 
