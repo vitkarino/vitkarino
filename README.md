@@ -1,64 +1,23 @@
-<h1 align="center">Hi, I'm Viktor Kysil</h1>
-<h3 align="center">a developer and artist from Kyiv, Ukraine</h3>
+# Hi, I'm Viktor Kysil 👋
 
+### A Developer and Artist based in Kyiv, Ukraine 🌇
 
-<h2 align="center">My experience</h2>
-<h3 align="center">Software:</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://visualstudio.microsoft.com">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=photoshop" />
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html)">
-    <img src="https://skillicons.dev/icons?i=aftereffects" />
-  </a>
-   <a href="https://www.blender.org">
-    <img src="https://skillicons.dev/icons?i=blender" />
-  </a>
-   <a href="https://www.unrealengine.com/en-US">
-    <img src="https://skillicons.dev/icons?i=unrealengine" />
-  </a>
-   <a href="https://www.figma.com/ui-design-tool">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-</p>
-<h3 align="center">Development:</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=jquery" />
-  </a>
-  <a href="https://www.w3schools.com/c/c_intro.php">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-</p>
-<h2 align="center">Contacts</h2>
-<div align="center">
-  <a href="https://t.me/viktorkisel">
-    Telegram
-  </a>
-  <a href="https://www.instagram.com/_viktorkisel_/">
-    Instagram
-  </a>
-  <a href="https://twitter.com/vitkarino">
-    Twitter
-  </a>
-  <h3 align="center">
-  <a href="mailto: ashrage24@gmail.com">
-    ashrage24@gmail.com
-  </a>
-  </h3>
-</div>
+## My Experience
+
+#### Software:
+- Visual Studio Code, Visual Studio, Adobe Photoshop, Blender, Unreal Engine, Unity, Figma 
+
+#### Development:
+- JavaScript, HTML5, CSS3, jQuery, C
+
+### Skills 🤹‍♂️
+- [Add your key skills and competencies here using icons or badges]
+
+### Projects 🚀
+- Matrix Calculator, Monterey Online
+
+### Let's Connect 🤝
+- Telegram: @viktorkisel 📱
+- Instagram: @vitkarino 📷
+- Twitter: @vitkarino 🐦
+- Email: kisvik2004@gmail.com 📧
