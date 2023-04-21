@@ -10,9 +10,6 @@
 #### Development:
 - JavaScript, HTML5, CSS3, jQuery, C
 
-### Projects 🚀
-- Matrix Calculator, Monterey Online
-
 ### Let's Connect 🤝
 - Telegram: @viktorkisel 📱
 - Instagram: @vitkarino 📷
