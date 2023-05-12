@@ -12,6 +12,5 @@
 
 ### Let's Connect 🤝
 - Telegram: @viktorkisel 📱
-- Instagram: @vitkarino 📷
-- Twitter: @vitkarino 🐦
+- Instagram: https://www.instagram.com/vitkarino/ 📷
 - Email: kisvik2004@gmail.com 📧
