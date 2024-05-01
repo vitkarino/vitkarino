@@ -8,7 +8,7 @@
 - Visual Studio Code, Visual Studio, Adobe Photoshop, Blender, Unreal Engine, Unity, Figma 
 
 #### Development:
-- JavaScript, HTML5, CSS3, jQuery, C
+- Vue3, JS, HTML5, CSS3, C, C++
 
 ### Let's Connect 🤝
 - Telegram: @viktorkisel 📱
